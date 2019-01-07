@@ -1,13 +1,14 @@
 " Vim color file
 
 " Colors
-" red        131
-" green      36
-" blue       67
-" purple     134
-" dark grey  59
-" grey       145
-" black      16
+" red         131
+" green       36
+" blue        67
+" purple      134
+" dark grey   59
+" darker grey 233
+" grey        145
+" black       16
 
 set background=dark
 highlight clear
@@ -18,7 +19,8 @@ let colors_name = "green"
 
 highlight Normal      ctermfg=145
 highlight CursorLine              ctermbg=16  cterm=NONE
-highlight ColorColumn             ctermbg=16
+highlight ColorColumn             ctermbg=233
+highlight StatusLine  ctermfg=233 ctermbg=145
 highlight LineNr      ctermfg=59
 highlight Type        ctermfg=36 "67
 highlight Statement   ctermfg=36
