@@ -39,3 +39,6 @@ highlight DiffChange  ctermfg=145 ctermbg=67
 highlight DiffAdd     ctermfg=145 ctermbg=36
 highlight DiffDelete  ctermfg=145 ctermbg=131
 highlight Visual      ctermfg=16  ctermbg=3
+highlight ALEError    ctermfg=145 ctermbg=131
+highlight ALEWarning  ctermfg=145 ctermbg=16
+highlight ALEInfo     ctermfg=145 ctermbg=67
