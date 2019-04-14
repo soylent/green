@@ -4,7 +4,6 @@
 " red         131
 " green       36
 " blue        67
-" purple      134
 " dark grey   59
 " darker grey 233
 " grey        145
