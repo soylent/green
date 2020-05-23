@@ -31,6 +31,7 @@ highlight Constant    ctermfg=131
 highlight SpecialKey  ctermfg=59
 highlight NonText     ctermfg=59
 highlight SpellBad                ctermbg=NONE  cterm=underline
+highlight SpellLocal              ctermbg=NONE  cterm=underline
 highlight MatchParen              ctermbg=black
 highlight Pmenu       ctermfg=145 ctermbg=16
 highlight PmenuSel    ctermfg=67  ctermbg=16    cterm=bold
