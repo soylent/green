@@ -35,7 +35,7 @@ highlight SpellLocal              ctermbg=NONE  cterm=underline
 highlight MatchParen              ctermbg=black
 highlight Pmenu       ctermfg=145 ctermbg=16
 highlight PmenuSel    ctermfg=67  ctermbg=16    cterm=bold
-highlight Search      ctermfg=59  ctermbg=3
+highlight Search      ctermfg=233 ctermbg=3
 highlight DiffChange  ctermfg=145 ctermbg=67
 highlight DiffAdd     ctermfg=145 ctermbg=36
 highlight DiffDelete  ctermfg=145 ctermbg=131
